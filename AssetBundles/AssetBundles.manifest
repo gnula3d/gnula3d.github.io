@@ -1,7 +1,11 @@
 ManifestFileVersion: 0
-CRC: 3467016729
+CRC: 837072078
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: nivel01
+      Name: nivel01.01
       Dependencies: {}
+    Info_1:
+      Name: cubo
+      Dependencies:
+        Dependency_0: nivel01.01
