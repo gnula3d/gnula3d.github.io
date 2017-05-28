@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<cross-domain-policy>
+<allow-acces-from domain="https://github.com/gnula3d/gnula3d.github.io"/>
+<cross-domain-policy>
