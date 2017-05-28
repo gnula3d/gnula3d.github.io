@@ -1,7 +1,7 @@
 ManifestFileVersion: 0
-CRC: 1366345521
+CRC: 1810724886
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: cubo
+      Name: sphere
       Dependencies: {}
