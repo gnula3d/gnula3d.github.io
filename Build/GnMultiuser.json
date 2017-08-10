@@ -1,0 +1,10 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "GnMultiuser.data.unityweb",
+"asmCodeUrl": "GnMultiuser.asm.code.unityweb",
+"asmMemoryUrl": "GnMultiuser.asm.memory.unityweb",
+"asmFrameworkUrl": "GnMultiuser.asm.framework.unityweb",
+"backgroundUrl": "GnMultiuser.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
